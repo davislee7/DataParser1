@@ -1,0 +1,10 @@
+/Users/davislee/projects/DataParser1/DataParser1/obj/x86/Debug/DataParser1.csproj.CoreCompileInputs.cache
+/Users/davislee/projects/DataParser1/DataParser1/bin/Debug/DataParser1.exe
+/Users/davislee/projects/DataParser1/DataParser1/bin/Debug/DataParser1.pdb
+/Users/davislee/projects/DataParser1/DataParser1/obj/x86/Debug/DataParser1.exe
+/Users/davislee/projects/DataParser1/DataParser1/obj/x86/Debug/DataParser1.pdb
+/Users/davislee/projects/DataParser1/DataParser1/obj/x86/Debug/DataParser1.csprojResolveAssemblyReference.cache
+/Users/davislee/projects/DataParser1/DataParser1/bin/Debug/EPPlus.dll
+/Users/davislee/projects/DataParser1/DataParser1/bin/Debug/Microsoft.Office.Interop.Excel.dll
+/Users/davislee/projects/DataParser1/DataParser1/bin/Debug/EPPlus.xml
+/Users/davislee/projects/DataParser1/DataParser1/bin/Debug/DataParser1.exe.config
